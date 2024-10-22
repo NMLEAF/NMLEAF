@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NMLEAF
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning ALX SE PROGRAM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nathanmes124@gmail.com
 
